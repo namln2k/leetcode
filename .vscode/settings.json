@@ -1,4 +1,5 @@
 {
   "prettier.trailingComma": "es5",
-  "prettier.semi": false
+  "prettier.semi": false,
+  "git.autofetch": false
 }
